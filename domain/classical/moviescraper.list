@@ -3,14 +3,14 @@
 # UPDATED: 2026-01-07
 # DESCRIPTION: 影音刮削专用分流列表，确保海报与元数据顺滑加载
 # -----------------------------------------------------------
-- DOMAIN-SUFFIX,themoviedb.org
-- DOMAIN-SUFFIX,api.themoviedb.org
-- DOMAIN-SUFFIX,image.tmdb.org
-- DOMAIN-SUFFIX,tvdb.com
-- DOMAIN-SUFFIX,api.thetvdb.com
-- DOMAIN-SUFFIX,fanart.tv
-- DOMAIN-SUFFIX,assets.fanart.tv
-- DOMAIN-SUFFIX,omdbapi.com
-- DOMAIN-SUFFIX,api.omdbapi.com
-- DOMAIN-SUFFIX,trakt.tv
-- DOMAIN-SUFFIX,api.trakt.tv
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,image.tmdb.org
+DOMAIN-SUFFIX,tvdb.com
+DOMAIN-SUFFIX,api.thetvdb.com
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,assets.fanart.tv
+DOMAIN-SUFFIX,omdbapi.com
+DOMAIN-SUFFIX,api.omdbapi.com
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,api.trakt.tv
