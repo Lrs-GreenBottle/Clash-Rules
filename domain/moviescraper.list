@@ -1,7 +1,24 @@
-# NAME: MovieScraper
+# NAME: Docker&MovieScraper
 # AUTHOR: Lrs
-# UPDATED: 2026-01-07
-# DESCRIPTION: 影音刮削专用分流列表，确保海报与元数据顺滑加载
+# UPDATED: 2026-01-28
+# DESCRIPTION: Docker&影音刮削专用分流列表，确保海报与元数据顺滑加载
+# -----------------------------------------------------------
+# Docker Hub 核心域名
+docker.io
+docker.com
+registry-1.docker.io
+auth.docker.io
+production.cloudflare.docker.com
+# -----------------------------------------------------------
+# 镜像搜索与文档
+dockerhub.com
+# -----------------------------------------------------------
+# 常用国内镜像加速涉及的域名（可选，防止分流干扰）
+docker.m.daocloud.io
+# 补充这三个，防止下载到 99% 报错
+index.docker.io
+d4el4qbdk6n7l.cloudfront.net
+*.docker.com
 # -----------------------------------------------------------
 # TMDB & CDN 加速
 tmdb-image-prod.b-cdn.net
