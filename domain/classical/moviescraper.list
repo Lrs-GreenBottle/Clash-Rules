@@ -4,26 +4,21 @@
 # DESCRIPTION: 古典格式分流列表，包含 Docker 镜像加速与影音刮削。
 # -----------------------------------------------------------
 # [Docker Hub 核心链路]
-DOMAIN-SUFFIX,docker.io      # 覆盖registry-1、auth、index等所有子域
-DOMAIN-SUFFIX,docker.com     # Docker官网及文档等独立域名
-DOMAIN-SUFFIX,dockerhub.com  # Docker Hub的别名域名
-DOMAIN,d4el4qbdk6n7l.cloudfront.net # Docker托管在AWS上的CDN加速节点
-DOMAIN-SUFFIX,daocloud.io    # 国内镜像站（可选，建议直连）
-
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,dockerhub.com
+DOMAIN,d4el4qbdk6n7l.cloudfront.net
+DOMAIN-SUFFIX,daocloud.io
 # [TMDB 刮削 - 核心域名]
-DOMAIN-SUFFIX,themoviedb.org # 覆盖api、image等子域
-DOMAIN-SUFFIX,tmdb.org       # 官方短域名
-DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net # 专用图片CDN加速节点
-
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net
 # [TVDB 剧集数据库 - 两个独立主域]
-DOMAIN-SUFFIX,tvdb.com       # 主域名，覆盖api、image等子域
-DOMAIN-SUFFIX,thetvdb.com    # 旧版主域名，部分刮削器可能使用，覆盖api、image等子域
-
+DOMAIN-SUFFIX,tvdb.com
+DOMAIN-SUFFIX,thetvdb.com
 # [Fanart 艺术图]
-DOMAIN-SUFFIX,fanart.tv      # 覆盖assets.fanart.tv等所有子域
-
+DOMAIN-SUFFIX,fanart.tv
 # [OMDB 接口]
-DOMAIN-SUFFIX,omdbapi.com    # 覆盖api.omdbapi.com等所有子域
-
+DOMAIN-SUFFIX,omdbapi.com
 # [Trakt 联动]
-DOMAIN-SUFFIX,trakt.tv       # 覆盖api.trakt.tv等所有子域
+DOMAIN-SUFFIX,trakt.tv
