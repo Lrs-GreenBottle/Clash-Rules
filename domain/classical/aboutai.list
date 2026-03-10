@@ -3,6 +3,20 @@
 # UPDATED: 2026-03-10
 # DESCRIPTION: 古典格式分流列表，包含open claw&AI相关域名。
 # -----------------------------------------------------------
+
 # [skills相关]
 DOMAIN-SUFFIX,tavily.com
 DOMAIN-SUFFIX,api.tavily.com
+
+# [Weather 天气]
+DOMAIN-SUFFIX,wttr.in
+DOMAIN,open-meteo.com
+
+# [Search Engines 搜索引擎]
+DOMAIN-SUFFIX,search.brave.com
+DOMAIN-SUFFIX,duckduckgo.com
+
+# [Development Tools 开发工具]
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,registry.npmjs.org
+DOMAIN-SUFFIX,pypi.org
