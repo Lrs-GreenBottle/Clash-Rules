@@ -1,10 +1,14 @@
-# NAME: About open claw&AI
+# NAME: OpenClaw & AI Tools
 # AUTHOR: Lrs
 # UPDATED: 2026-03-10
 # DESCRIPTION: 古典格式分流列表，包含open claw&AI相关域名。
 # -----------------------------------------------------------
 
-# [skills相关]
+# [OpenClaw & ClawHub]
+DOMAIN-SUFFIX,openclaw.ai
+DOMAIN-SUFFIX,clawhub.com
+
+# [Skills 技能]
 DOMAIN-SUFFIX,tavily.com
 DOMAIN-SUFFIX,api.tavily.com
 
