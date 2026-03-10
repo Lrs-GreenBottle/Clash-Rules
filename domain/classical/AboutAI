@@ -4,5 +4,5 @@
 # DESCRIPTION: 古典格式分流列表，包含open claw&AI相关域名。
 # -----------------------------------------------------------
 # [skills相关]
-- DOMAIN-SUFFIX,tavily.com,代理
-- DOMAIN-SUFFIX,api.tavily.com,代理
+DOMAIN-SUFFIX,tavily.com
+DOMAIN-SUFFIX,api.tavily.com
