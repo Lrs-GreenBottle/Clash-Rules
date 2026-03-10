@@ -1,2 +1,8 @@
+# NAME: About open claw&AI
+# AUTHOR: Lrs
+# UPDATED: 2026-03-10
+# DESCRIPTION: 古典格式分流列表，包含open claw&AI相关域名。
+# -----------------------------------------------------------
+# [skills相关]
 - DOMAIN-SUFFIX,tavily.com,代理
 - DOMAIN-SUFFIX,api.tavily.com,代理
